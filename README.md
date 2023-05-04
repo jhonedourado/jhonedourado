@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🙋‍♂️ My name is Jhone
 - 👨‍💻 I currently have experience in HTML and CSS
 - 🤖 I use C++ to program arduino boards
 - 🌱 I’m currently learning JavaScript
