@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🙋‍♂️ My name is Jhone
-- 👨‍💻 I currently have experience in HTML and CSS
+- 👨‍💻 I have experience in HTML and CSS
 - 🤖 I use C++ to program arduino boards
 - 🌱 I’m currently learning JavaScript
+- 🤓 I'm a freshman in computer engineering at UFRB
 
 <!--
 **jhonedourado/jhonedourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
